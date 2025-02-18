@@ -1,0 +1,18 @@
+.wrapper {
+ display: flex;
+ flex-direction: row;
+ align-items: start;
+ margin: 10px;
+}
+
+.text_block {
+ display: flex;
+ align-items: start;
+ flex-direction: column;
+ margin-left: 10px;
+}
+
+.check_icon {
+ width: 50px;
+ height: auto;
+}

@@ -1,0 +1,26 @@
+.header {
+ height: 30px;
+ padding: 50px 0px;
+ width: 100%;
+ background-color: #0C0F04;
+}
+
+.logo {
+ height: 100%;
+ width: auto;
+}
+
+.logo_title {
+ font-size: 18px;
+ margin-left: 10px;
+ font-weight: 500;
+ color: #fff;
+}
+
+.wrapper {
+ display: flex;
+ flex-direction: row;
+ height: 100%;
+ align-items: center;
+ justify-content: center;
+}

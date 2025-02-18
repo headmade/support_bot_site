@@ -1,0 +1,27 @@
+.wrapper {
+ position: relative;
+ padding:20px;
+ display: flex;
+ flex-direction: row;
+ border-radius: 20px;
+
+ h1 {
+  font-size: 32px;
+  margin-right: 10px;
+ color: #FEFCFF;
+
+ }
+}
+
+.title {
+ font-size: 32px;
+ color: #FEFCFF;
+ font-weight: 500;
+}
+
+.description {
+ font-size: 20px;
+ color: #FEFCFF;
+ font-weight: 500;
+ margin-top: 10px;
+}
